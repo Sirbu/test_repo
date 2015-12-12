@@ -2,4 +2,7 @@ $CFLAGS = "-std=c99 -Wall"
 $CC = "gcc"
 
 all:
-	$CC $CFLAGS fichier_test.c
+	fichier_test
+
+fichier_test:
+	$CC $CFLAGS fichier_test
