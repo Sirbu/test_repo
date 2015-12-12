@@ -1,3 +1,6 @@
+// petit programme pour tester
+// les commandes git
+
 #include <stdio.h>
 
 int main(void)
