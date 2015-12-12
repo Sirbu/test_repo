@@ -5,6 +5,6 @@ int main(void)
 	printf("Hello, world!\n");
 	printf("Bonjour, monde!\n");
 	printf("Au revoir, monde!\n");
+	printf("Je ne sais plus quoi écrire pour tester des trucs de merde...\n");
 	return 0;
 }
-
