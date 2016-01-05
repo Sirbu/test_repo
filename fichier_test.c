@@ -9,5 +9,6 @@ int main(void)
 	printf("Bonjour, monde!\n");
 	printf("Au revoir, monde!\n");
 	printf("Je ne sais plus quoi écrire pour tester des trucs de merde...\n");
+        printf("test depuis l'iPad\n")
 	return 0;
 }
