@@ -13,5 +13,6 @@ int main(void)
 	
 	printf("Rajout de cette ligne pour la branche testing !\n");
 
+	printf("Effectué depuis la branche test_branch\n");
 	return 0;
 }
